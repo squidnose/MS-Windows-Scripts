@@ -17,4 +17,5 @@
 ### MS SW
 - Win 10 iot ltsc: https://massgrave.dev/windows_ltsc_links
 - irm https://get.activated.win | iex
-- Winget IOT ltsc https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/deployment/install-winget-windows-iot
+- Scoop Packge Manager: https://scoop.sh/
+- 
