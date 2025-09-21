@@ -5,7 +5,10 @@
 ### Intel
 
 ### Nvidia
-
+- [Nvidia 304 Currie Geforce 6000/7000](https://www.nvidia.com/en-us/drivers/windows/304_48/win7-winvista-64bit-304-48-beta-driver/)
+- [Nvidia 340 Tesla Geforce 8000/9000 and GTS 200 series](https://www.nvidia.com/download/driverresults.aspx/77224/en-us)/)
+- [Nvidia 390 Fermi GTX/GTS 400/500 series](https://www.nvidia.com/download/driverResults.aspx/130637/en-us,si/)
+- [Nvidia 470 Kepler GTX 600/700 series](https://www.nvidia.com/en-us/drivers/details/197906/)
 ## Info Apps
 ### HW
 - [hwinfo 64](https://www.hwinfo.com/download/)
